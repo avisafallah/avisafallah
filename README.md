@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently researching **the application of AI in the field of mental health disorders**
 
-- 👨‍💻 My Art Portfolio is available at [https://www.artstation.com/lenavi](https://www.artstation.com/lenavi)
+- 👨‍💻 My Art Portfolio is available at [Artstation](https://www.artstation.com/lenavi)
 
 - 📫 How to reach me **avisafallah2001@gmail.com**
 
-- 📄 Know about my experiences [https://avisafallah.github.io/files/AvisaFallah-CV.pdf](https://avisafallah.github.io/files/AvisaFallah-CV.pdf)
+- 📄 Know about my experiences [My Cv](https://avisafallah.github.io/files/AvisaFallah-CV.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
