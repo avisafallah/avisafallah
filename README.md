@@ -1,7 +1,8 @@
+[![MasterHead](https://file.io/Ru6MDAzKv9DP)](https://avisafallah.github.io)
+
 <h1 align="center">Hi 👋, I'm Avisa Fallah</h1>
 <h3 align="center">Passionate Neuroscientist/Art Technician from Iran</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=avisafallah&label=Profile%20views&color=0e75b6&style=flat" alt="avisafallah" /> </p>
+<img align="right" alt="Coding" width="300" src="https://file.io/Kb2bldeVybC4">
 
 - 🔭 I’m currently researching **the application of AI in the field of mental health disorders**
 
