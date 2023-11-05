@@ -1,12 +1,14 @@
 [![MasterHead](https://file.io/Ru6MDAzKv9DP)](https://avisafallah.github.io)
 
 <h1 align="center">Hi 👋, I'm Avisa Fallah</h1>
-<h3 align="center">Passionate Neuroscientist/Art Technician from Iran</h3>
+<h3 align="center">Passionate Neuroscientist & Artist from Iran</h3>
 <img align="right" alt="Coding" width="456" src="https://file.io/sDEOBfjhVneo">
 
 - 🔭 I’m currently researching **the application of AI in the field of mental health disorders**
 
-- 👨‍💻 My Art Portfolio is available at [Artstation](https://www.artstation.com/lenavi)
+- Seeking opportunities to collaborate on **art and AI projects**.
+
+- 👨‍💻 My **Art Portfolio** is available at [Artstation](https://www.artstation.com/lenavi)
 
 - 📫 How to reach me **avisafallah2001@gmail.com**
 
