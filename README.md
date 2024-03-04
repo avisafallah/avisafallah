@@ -1,8 +1,8 @@
-[![MasterHead](https://file.io/Ru6MDAzKv9DP)](https://avisafallah.github.io)
+[![MasterHead](https://file.io/LdpEltvYKAAC)](https://avisafallah.github.io)
 
 <h1 align="center">Hi 👋, I'm Avisa Fallah</h1>
 <h3 align="center">Passionate Neuroscientist & Artist from Iran</h3>
-<img align="right" alt="Coding" width="456" src="https://file.io/sDEOBfjhVneo">
+<img align="right" alt="Coding" width="456" src="https://file.io/Ki4doRUwvuET">
 
 - 🔭🧠 I’m currently researching **the application of AI in the field of mental disorders & cognitive disabilities**
 
