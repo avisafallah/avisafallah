@@ -4,15 +4,13 @@
 <h3 align="center">Passionate Neuroscientist & Artist from Iran</h3>
 <img align="right" alt="Coding" width="456" src="https://file.io/sDEOBfjhVneo">
 
-- 🔭🧠 I’m currently researching **the application of AI in the field of mental health disorders**
+- 🔭🧠 I’m currently researching **the application of AI in the field of mental disorders & cognitive disabilities**
 
 - 👾 Seeking opportunities to collaborate on **art and AI projects**.
 
 - 🎨 My **Art Portfolio** is available at [Artstation](https://www.artstation.com/lenavi)
 
 - 📫 How to reach me **avisafallah2001@gmail.com**
-
-- 📄 Know about my experiences [My Cv](https://avisafallah.github.io/files/AvisaFallah-CV.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
