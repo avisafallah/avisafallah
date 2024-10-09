@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Avisa Fallah</h1>
 <h3 align="center">Passionate Neuroscientist & Artist from Iran</h3>
-<img align="right" alt="Coding" width="213" src="https://64.media.tumblr.com/be0a20dd89bb264f3a40303e721d8ff6/9bc6506345fd5d0f-d8/s1280x1920/011c128dc90a82d09dedd1c61d314a09b8f058f1.gifv">
+<img align="right" alt="Coding" width="213" src="https://64.media.tumblr.com/32eeba6f88746e5e1cc5152520d5388f/tumblr_nh9uz9YhMV1r3uv06o2_500.gifv">
 
 - 🔭🧠 I’m currently researching **the application of AI in the field of mental disorders & cognitive disabilities**
 
