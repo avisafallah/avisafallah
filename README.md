@@ -1,4 +1,5 @@
-[![MasterHead]([https://file.io/LdpEltvYKAAC](https://i0.wp.com/www.sciencenews.org/wp-content/uploads/2021/02/glennharvey_2021_01_22_sciencenews_vignette1_1030_low.gif?resize=1030%2C709&ssl=1))](https://avisafallah.github.io)
+[![MasterHead](https://i0.wp.com/www.sciencenews.org/wp-content/uploads/2021/02/glennharvey_2021_01_22_sciencenews_vignette1_1030_low.gif?resize=1030%2C709&ssl=1)](https://avisafallah.github.io)
+
 
 <h1 align="center">Hi 👋, I'm Avisa Fallah</h1>
 <h3 align="center">Passionate Neuroscientist & Artist from Iran</h3>
