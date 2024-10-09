@@ -3,13 +3,15 @@
 
 <h1 align="center">Hi 👋, I'm Avisa Fallah</h1>
 <h3 align="center">Passionate Neuroscientist & Artist from Iran</h3>
-<img align="right" alt="Coding" width="213" src="https://i.gifer.com/WSE.gif">
+<img align="right" alt="Coding" width="213" src="https://64.media.tumblr.com/be0a20dd89bb264f3a40303e721d8ff6/9bc6506345fd5d0f-d8/s1280x1920/011c128dc90a82d09dedd1c61d314a09b8f058f1.gifv">
 
 - 🔭🧠 I’m currently researching **the application of AI in the field of mental disorders & cognitive disabilities**
 
 - 👾 Seeking opportunities to collaborate on **art and AI projects**.
 
 - 🎨 My **Art Portfolio** is available at [Artstation](https://www.artstation.com/lenavi)
+
+
 
 - 📫 How to reach me **avisafallah2001@gmail.com**
 
