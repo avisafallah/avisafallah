@@ -2,12 +2,12 @@
 
 
 <h1 align="center">Hi 👋, I'm Avisa Fallah</h1>
-<h3 align="center">Passionate Neuroscientist & Artist from Iran</h3>
+<h3 align="center">Passionate Cognitive scientist & Artist from Iran</h3>
 <img align="right" alt="Coding" width="313" src="https://file.io/buME53oLdVTN">
 
-- 🔭🧠 I’m currently researching **the application of AI in the field of mental disorders & cognitive disabilities**
+- 🔭🧠 Currently researching **AI applications in Cognition & Social Perception**
 
-- 👾 Seeking opportunities to collaborate on **art and AI projects**.
+- 👾 Seeking opportunities to collaborate on **Art & Neuro-Cognitive-AI projects**.
 
 - 🎨 My **Art Portfolio** is available at [Artstation](https://www.artstation.com/lenavi)
 
