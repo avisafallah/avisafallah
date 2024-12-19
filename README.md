@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Avisa Fallah</h1>
 <h3 align="center">Passionate Cognitive scientist & Artist from Iran</h3>
-<img align="right" alt="Coding" width="313" src="https://file.io/QNFQN7yfQCcR">
+<img align="right" alt="Coding" width="313" src="https://file.io/P9S0ZeDmQAY3">
 
 - 🔭🧠 Currently researching **AI applications in Cognition & Social Perception**
 
