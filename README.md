@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Avisa Fallah</h1>
 <h3 align="center">Passionate NeuroCognitive scientist & Artist from Iran</h3>
-<img align="right" alt="Coding" width="200" src="https://raw.githubusercontent.com/avisafallah/Gif/main/your-gif-file.gif">
+<img align="right" alt="Coding" width="200" src="https://tenor.com/view/omg-kid-shocked-back-off-beluga-whale-gif-16978047">
 
 - 🔭🧠 Currently conducting research on **Computational Analysis in Neurocognition**
 
