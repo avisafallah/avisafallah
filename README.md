@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Avisa Fallah</h1>
 <h3 align="center">Passionate NeuroCognitive scientist & Artist</h3>
-<img align="right" alt="Coding" width="270" src="https://github.com/avisafallah/Gif/blob/main/omg-kid.gif">
+<img align="right" alt="Coding" width="240" src="https://github.com/avisafallah/Gif/blob/main/omg-kid.gif">
 
 - 🔭🧠 Currently conducting research on **Computational Analysis in Neurocognition**
 
