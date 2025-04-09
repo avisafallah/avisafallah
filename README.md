@@ -3,9 +3,9 @@
 
 <h1 align="center">Hi 👋, I'm Avisa Fallah</h1>
 <h3 align="center">Passionate NeuroCognitive scientist & Artist from Iran</h3>
-<img align="right" alt="Coding" width="313" src="https://tenor.com/bjoVD.gif">
+<img align="right" alt="Coding" width="200" src="https://tenor.com/bjoVD.gif">
 
-- 🔭🧠 Currently conducting research on **Computational Analysis in Neurocognition and the Social Sciences**
+- 🔭🧠 Currently conducting research on **Computational Analysis in Neurocognition**
 
 - 🎨 My **Art Portfolio** is available at [Artstation](https://www.artstation.com/lenavi)
 
